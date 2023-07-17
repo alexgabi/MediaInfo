@@ -122,8 +122,8 @@
  object2;
  object3;
  pixel1; pixel
- pixel2; pixel
- pixel3; pixel
+ pixel2; 
+ pixel3; 
  second1; segundo
  second2; 
  second3; 
@@ -147,7 +147,7 @@
  year2; 
  year3;
 , ;, 
-: ;: 
+: ;:
 3D;3D
 3DType;3D mota
 5.1.2ch;
@@ -479,12 +479,12 @@ Genre_002;Countrya
 Genre_003;Dancea
 Genre_004;Diskoa
 Genre_005;Funka
-Genre_006;Grunge-a
+Genre_006;Grunge
 Genre_007;Hip-Hopa
 Genre_008;Jazza
 Genre_009;Metala
-Genre_010;New Agea
-Genre_011;Oldiesa
+Genre_010;New Age
+Genre_011;Oldies
 Genre_012;Beste
 Genre_013;Popa
 Genre_014;R&B-a
