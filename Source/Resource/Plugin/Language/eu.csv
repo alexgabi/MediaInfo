@@ -5,8 +5,8 @@
   Language_Name;Euskara
   Config_Text_ColumnSize;40
   Config_Text_Separator; : 
-  Config_Text_NumberTag; .
-  Config_Text_FloatSeparator; ,
+  Config_Text_NumberTag;
+  Config_Text_FloatSeparator;
   Config_Text_ThousandsSeparator; .
  audio stream1; audio jarioa
  audio stream2; 
